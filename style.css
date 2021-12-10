@@ -10,7 +10,7 @@
 body{
     width: 100%;
     min-height: 100vh;
-    background-color:blueviolet  ;
+    background-color:lightgray  ;
     margin: 0;
     padding: 0;
     display: flex;
@@ -150,7 +150,7 @@ padding: 1.3rem;
 @media (max-width: 650px){
 
     body{
-        background-color: blueviolet;
+        background-color: white;
     }
     .instagram-wrapper{
         width: 90%;
